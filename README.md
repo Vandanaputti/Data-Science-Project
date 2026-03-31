@@ -82,9 +82,9 @@ http://localhost:8502
 
 ## 📸 Application Preview
 
-*(Add your screenshot here)*
+<img width="1907" height="1067" alt="image" src="https://github.com/user-attachments/assets/28f7a6c3-eb2b-433a-9055-92ed31f901c1" />
 
----
+
 
 ## 📊 How It Works
 
